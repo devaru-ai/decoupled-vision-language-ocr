@@ -38,3 +38,5 @@ Our cross-domain evaluation shows that language model selection must be domain-s
   <img src="images/system_architecture.png" width="800" alt="Decoupled OCR Architecture Diagram">
 </p>
 
+## Acknowledgements
+This project incorporates code from [DTLR](https://github.com/raphael-baena/DTLR) by Baena et al. (NeurIPS 2024), which is distributed under the Apache 2.0 License.
